@@ -1,1 +1,1 @@
-# Japanese-Text-Extractiob-from-image-and-check-Grammatical-error-of-Sentence-
+# Japanese-Text-Extraction-from-image-and-check-Grammatical-error-of-Sentence-
